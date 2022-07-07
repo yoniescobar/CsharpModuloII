@@ -1,0 +1,7 @@
+git add .
+git commit -m "Nortwind_Categoria_06-07-2022"
+git remote add origin https://github.com/yoniescobar/CsharpModuloII.git
+git branch -M main
+git push -u origin main
+
+
