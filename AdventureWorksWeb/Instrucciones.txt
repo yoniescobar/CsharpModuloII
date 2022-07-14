@@ -1,0 +1,6 @@
+1. Repositorio en GIT
+2. Clonar Repositorio
+3. Crear un Proyecto ASP.NET Core Empty
+4. Agregar una clase StartUp.cs
+5. Agregar la carpeta Pages
+6. Mostrar index.cshtml
